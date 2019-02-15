@@ -3,6 +3,7 @@
 ## .Net Core
 ### Http Client
 * Use HttpClientFactory to implement resilient HTTP requests: [doc](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/implement-resilient-applications/use-httpclientfactory-to-implement-resilient-http-requests)
+* Initiate HTTP requests: [doc](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/http-requests?view=aspnetcore-2.2#consumption-patterns)
 
 ## Analytics
 ### Google Analytics
@@ -30,3 +31,6 @@
 
 ### Reactive Forms
 * [Validating Reactive Forms](https://malcoded.com/posts/angular-reactive-form-validation)
+
+## Misc
+* Get value out of your monad - Mark Seemann: [youtube](https://www.youtube.com/watch?v=F9bznonKc64)
