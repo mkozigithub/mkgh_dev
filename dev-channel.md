@@ -1,5 +1,9 @@
 # Ignite Dev Channel Items
 
+## .Net Core
+### Http Client
+* Use HttpClientFactory to implement resilient HTTP requests: [doc](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/implement-resilient-applications/use-httpclientfactory-to-implement-resilient-http-requests)
+
 ## Analytics
 ### Google Analytics
 * Google Analytics: [site](https://analytics.google.com/analytics/web/)
