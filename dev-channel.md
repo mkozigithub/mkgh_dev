@@ -16,6 +16,7 @@
 
 ### Validation
 * https://www.anexinet.com/blog/asp-net-core-fluentvalidation-swagger/
+* https://fluentvalidation.net/aspnet
 
 ## Analytics
 ### Google Analytics
