@@ -1,17 +1,30 @@
 # Ignite Dev Channel Items
 
 ## .Net Core
+### Antiforgery (XSRF)
+* https://dotnetthoughts.net/anti-forgery-validation-with-aspdotnet-core-and-angular/
+* https://angular.io/guide/http#security-xsrf-protection
+* https://docs.microsoft.com/en-us/aspnet/core/security/anti-request-forgery?view=aspnetcore-2.2
+* https://odetocode.com/blogs/scott/archive/2017/02/06/anti-forgery-tokens-and-asp-net-core-apis.aspx
+
 ### Http Client
 * Use HttpClientFactory to implement resilient HTTP requests: [doc](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/implement-resilient-applications/use-httpclientfactory-to-implement-resilient-http-requests)
 * Initiate HTTP requests: [doc](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/http-requests?view=aspnetcore-2.2#consumption-patterns)
 
+### Tools
+* EF Core Power Tools: [site](https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools)
+
+### Validation
+* https://www.anexinet.com/blog/asp-net-core-fluentvalidation-swagger/
+
 ## Analytics
 ### Google Analytics
 * Google Analytics: [site](https://analytics.google.com/analytics/web/)
+* Google CaptchA: [site](https://www.google.com/recaptcha/intro/v3.html) | [dev site](https://developers.google.com/recaptcha/docs/v3)
 
 ## Angular
 ### Configuration
-  * Application Environments: [Becomming an Angular Environmentalist](https://blog.angularindepth.com/becoming-an-angular-environmentalist-45a48f7c20d8) | [angular docs](https://github.com/angular/angular-cli/wiki/stories-application-environments)
+  * Application Environments: [Becomming an Angular Environmentalist](https://blog.angularindepth.com/becoming-an-angular-environmentalist-45a48f7c20d8) | [angular docs](https://developers.google.com/recaptcha/)
     ```
     ng build --configuration=staging
       or
