@@ -20,7 +20,7 @@
 
 ## Analytics
 ### Google
-* Google Analytics: [site](https://analytics.google.com/analytics/web/)
+* Google Analytics: [site](https://analytics.google.com/analytics/web/) | [academy](https://analytics.google.com/analytics/academy/)
 * Google CaptchA: [site](https://www.google.com/recaptcha/intro/v3.html) | [dev site](https://developers.google.com/recaptcha/docs/v3) | [youtube](https://www.youtube.com/watch?v=euRAfUGX8wY&ut=) | [colab](https://codelabs.developers.google.com/codelabs/reCAPTCHA/index.html#0)
 * Codelabs: [site](https://codelabs.developers.google.com/)
 
