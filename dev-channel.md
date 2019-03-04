@@ -49,7 +49,7 @@
 * [Validating Reactive Forms](https://malcoded.com/posts/angular-reactive-form-validation)
 
 ### RxJS
-* reactive.how/rxjs (Cedric Soulas): [site](https://reactive.how/rxjs/)
+* reactive.how (Cedric Soulas): [site](https://reactive.how) | [rxjs](https://reactive.how/rxjs/)
 
 ### Style Guide ([site](https://angular.io/guide/styleguide))
 * [Core Feature Module](https://angular.io/guide/styleguide#core-feature-module)
