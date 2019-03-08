@@ -24,8 +24,8 @@
 
 ## Analytics
 ### Google
+* Google Analytics: [site](https://analytics.google.com/analytics/web/) | [analytics academy](https://analytics.google.com/analytics/academy/)
 
-* Google Analytics: [site](https://analytics.google.com/analytics/web/) | [academy](https://analytics.google.com/analytics/academy/)
 * Google CaptchA: [site](https://www.google.com/recaptcha/intro/v3.html) | [dev site](https://developers.google.com/recaptcha/docs/v3) | [youtube](https://www.youtube.com/watch?v=euRAfUGX8wY&ut=) | [colab](https://codelabs.developers.google.com/codelabs/reCAPTCHA/index.html#0)
 * Codelabs: [site](https://codelabs.developers.google.com/)
 
@@ -45,8 +45,6 @@
 
 ### Http Client
 
-* []()
-
 ### in-memory-web-api
 
 * [github](https://github.com/angular/in-memory-web-api/blob/master/README.md)
@@ -58,6 +56,14 @@
 ### Reactive Forms
 
 * [Validating Reactive Forms](https://malcoded.com/posts/angular-reactive-form-validation)
+
+### RxJS
+
+* reactive.how (Cedric Soulas): [site](https://reactive.how) | [rxjs](https://reactive.how/rxjs/)
+
+### Style Guide ([site](https://angular.io/guide/styleguide))
+
+* [Core Feature Module](https://angular.io/guide/styleguide#core-feature-module)
 
 ## Misc
 
